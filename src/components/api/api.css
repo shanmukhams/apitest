@@ -1,0 +1,48 @@
+.api{
+    padding: 20px;
+}
+.container{
+    margin: 8px;
+    background-color: #e9ecef;
+    padding: 4px 4px 4px 10px;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem; 
+    text-align: left;   
+}
+
+.table{
+    margin-right: 2px;
+    margin-left: 8px;
+    border-radius: 0.25rem; 
+    font-size: 12px;  
+}
+
+.table th{
+    padding: 4px;
+}
+
+.table td{
+    padding: 4px
+}
+
+.headerKey{
+    width: 100%;
+}
+
+.headerValue{
+    width:100%
+}
+
+.send{
+    margin: 8px;
+    border-radius: 0.25rem;
+    padding: 4px;
+    width: 100%;
+    text-align: center;
+    background-color: #79b6f2;
+}
+
+.send :hover{
+    border: 4px;
+    border-color: black;
+}
